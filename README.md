@@ -1,22 +1,52 @@
-# Hi there! 👋  
+# Hi there! 👋
 
-## I'm Saeed Hussain  
-💻 **Web Developer** | 🎓 **Software Engineering Student**  
+## I'm Saeed Hussain
 
-I have a passion for crafting beautiful and responsive web interfaces. My tech stack includes:  
-✔ **HTML**  
-✔ **CSS**  
-✔ **Bootstrap**  
-✔ **JavaScript (Basics)**  
+💻 Full-Stack Web Developer | 🎓 Software Engineering Student  
 
-### 🚀 Open to Collaboration  
-I'm always eager to learn and grow, and I’d love to collaborate on exciting web projects. If you have any suggestions or ideas, feel free to reach out!  
+I specialize in building modern, scalable, and user-friendly web applications using the latest technologies.
 
+---
 
-### 🙌 Thank You! 
+## 🚀 Tech Stack
 
-Thank you for visiting my profile! Feel free to connect, contribute, or just say hi. Let's build something amazing together! 🚀  
-  
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler  
+### 💡 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- Next.js  
+- Tailwind CSS  
 
+### ⚙️ Backend
+- Node.js  
+- REST APIs  
 
+### 🗄️ Database & Backend Services
+- Supabase  
+- PostgreSQL  
+- MySQL  
+
+### 🛠️ Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🚀 Open to Collaboration
+
+I'm always eager to learn, grow, and collaborate on exciting projects.  
+If you have any ideas or opportunities, feel free to reach out!
+
+---
+
+## 🤝 Let's Connect
+
+🔗 GitHub: https://github.com/Saeed-Hussain  
+
+---
+
+## 🙌 Thank You!
+
+Thanks for visiting my profile! Feel free to connect, contribute, or just say hi.  
+Let's build something amazing together! 🚀
